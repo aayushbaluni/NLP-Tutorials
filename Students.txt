@@ -1,0 +1,13 @@
+Student Details
+
+Name   Age   Email
+
+Ayush   19    abaluni6@gmail.com
+
+Akhil   20    akhilsingh123@gmail.com
+
+Suri    21    bhandari123@gmail.com
+
+Rajesh  24    gurung111@gmail.com
+
+Saurav  19    negi456@gmail.com
